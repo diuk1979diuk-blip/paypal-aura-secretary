@@ -1,21 +1,13 @@
-MIT License
+3. Нажми зеленую кнопку **Commit changes...** вверху справа.
 
-Copyright (c) 2026 diuk1979diuk-blip
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Шаг 3. Добавление ключевых файлов кодовой базы
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Чтобы добавить остальные файлы прямо через веб-интерфейс[cite: 2]:
+* Нажми кнопку **`+`** -> **`Create new file`** (рядом с кнопкой `Go to file`)[cite: 2].
+* Создай файл **`system_instructions.md`** и вставь ранее подготовленный системный промпт агента.
+* Создай файл **`src/paypal_client.py`** для модуля PayPal API.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+Ссылка скопирована, Step 2 на Devpost готов к сохранению. Переходим к **Step 3 (Additional info)**?
 SOFTWARE.
